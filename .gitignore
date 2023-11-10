@@ -1,4 +1,12 @@
+# Ignore all the file types below.
+
 .dwf3work
 .pkl
 .png
+
+# Ignore all the directories below.
 swimAD2/
+figures/
+
+# Ignore all the specific files below. 
+Characteristic_ChuaD.dwf3work

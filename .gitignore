@@ -1,7 +1,7 @@
 # Ignore all the file types below.
 
 .dwf3work
-.pkl
+*.pkl
 .png
 
 # Ignore all the directories below.

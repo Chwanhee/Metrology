@@ -7,6 +7,7 @@
 swimAD2/
 figures/
 .ipynb_checkpoints/
+_pycache_/
 
 # Ignore all the specific files below. 
 Characteristic_ChuaD.dwf3work

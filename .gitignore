@@ -6,9 +6,9 @@
 # Ignore all the directories below.
 swimAD2/
 figures/
+.ipynb_checkpoints/
 
 # Ignore all the specific files below. 
 Characteristic_ChuaD.dwf3work
 Metrology\inverting_amp.pkl
 swimAD2.py
-.ipynb_checkpoints

@@ -2,6 +2,7 @@
 .dwf3work
 *.pkl
 .png
+.code-workspace
 
 # Ignore all the directories below.
 swimAD2/

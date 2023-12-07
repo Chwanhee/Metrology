@@ -1,7 +1,7 @@
 # Ignore all the file types below.
 .dwf3work
 *.pkl
-.png
+*.png
 .code-workspace
 
 # Ignore all the directories below.
@@ -9,8 +9,7 @@ swimAD2/
 figures/
 .ipynb_checkpoints/
 _pycache_/
-
-Report_2\result
+result/
 
 # Ignore all the specific files below. 
 Characteristic_ChuaD.dwf3work

@@ -9,6 +9,8 @@ figures/
 .ipynb_checkpoints/
 _pycache_/
 
+Report_2\result
+
 # Ignore all the specific files below. 
 Characteristic_ChuaD.dwf3work
 Metrology\inverting_amp.pkl

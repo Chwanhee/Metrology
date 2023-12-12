@@ -10,6 +10,7 @@ figures/
 .ipynb_checkpoints/
 _pycache_/
 result/
+collected_data/
 
 # Ignore all the specific files below. 
 Characteristic_ChuaD.dwf3work

@@ -2,14 +2,17 @@
 .dwf3work
 *.pkl
 *.png
-.code-workspace
+*.code-workspace
+*.pyc
 
 # Ignore all the directories below.
 swimAD2/
 figures/
 .ipynb_checkpoints/
+Report_2/_pycache_/
 _pycache_/
 result/
+Report_2/collected_data/
 
 # Ignore all the specific files below. 
 Characteristic_ChuaD.dwf3work

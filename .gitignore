@@ -1,7 +1,8 @@
 # Ignore all the file types below.
-.dwf3work
+*.dwf3work
 *.pkl
 *.png
+*.csv
 .code-workspace
 
 # Ignore all the directories below.

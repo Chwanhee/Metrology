@@ -1,9 +1,10 @@
 # Ignore all the file types below.
-.dwf3work
+*.dwf3work
 *.pkl
 *.png
 *.code-workspace
 *.pyc
+*.csv
 
 # Ignore all the directories below.
 swimAD2/
